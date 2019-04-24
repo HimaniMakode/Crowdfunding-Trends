@@ -18,13 +18,19 @@ Excel Analysis of Kickstarter Campaigns
 ![4](https://user-images.githubusercontent.com/44784856/56697226-e9842f00-66a2-11e9-82a9-89e6a718f214.png)
 
 Limitations:
+
 •	Of the over 300,000 projects launched, we only have data for 4,000 projects. This data is not enough to accurately represent the data of all Kickstarter campaigns and find insight.
+
 •	Apart from mentioned factors, there can be other factors like geographical area and currency worth considering finding the insights.
+
 •	Additional analysis could have been conducted on duration of the campaign.
 
 What are some other possible tables/graphs that we could create?
+
 •	We could have created graph to analyze the success of projects based on the duration of the project.
+
 •	Analysis based on geographical area would have been contributed to make additional conclusions.
+
 •	Average donation could have given more insights.
 
 
