@@ -25,6 +25,7 @@ Limitations:
 
 •	Additional analysis could have been conducted on duration of the campaign.
 
+
 What are some other possible tables/graphs that we could create?
 
 •	We could have created graph to analyze the success of projects based on the duration of the project.
